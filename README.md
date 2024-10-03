@@ -24,7 +24,7 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyunsoo-an&show_icons=true&theme=radical)
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hyunsoo-an)](https://github.com/hyunsoo-an/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunsoo-an&layout=compact)
 
 <!--
 **hyunsoo-an/hyunsoo-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
