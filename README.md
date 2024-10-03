@@ -27,11 +27,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-cd486b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hank_o_k)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNsMGrZmCMVPjcMhXdKWRSgWGHXwthDXbwZkmsQrvRMJGsxbNpqKXkqrdRTSlvkFngFBtL)
 
-<h2>Come and visit!!</h2>
-  <a class="button" href="Hank-CV.pdf" target="_blank">CV</a>
-<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
-
-
 
 <!--
 **hyunsoo-an/hyunsoo-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
