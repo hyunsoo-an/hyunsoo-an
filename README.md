@@ -21,7 +21,8 @@
 <h2>Contact Me</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hyunsoo-an/)
-[![Instargram Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.instagram.com/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-cd486b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hank_o_k)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hankjudolove@gmail.com)](mailto:hankjudolove@gmail.com)
 
 <!--
 **hyunsoo-an/hyunsoo-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
