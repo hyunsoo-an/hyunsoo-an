@@ -16,6 +16,11 @@
    <img alt="git" src="https://img.shields.io/badge/-Git-f1502f?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+<div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=hyunsoo-an&show_icons=true&theme=radical" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunsoo-an&layout=donut" height="200" />
+</div>
+
 <h2>Contact Me</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hyunsoo-an/)
@@ -23,8 +28,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNsMGrZmCMVPjcMhXdKWRSgWGHXwthDXbwZkmsQrvRMJGsxbNpqKXkqrdRTSlvkFngFBtL)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyunsoo-an&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunsoo-an&layout=compact)
+
+
 
 <!--
 **hyunsoo-an/hyunsoo-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
