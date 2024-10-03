@@ -27,7 +27,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-cd486b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hank_o_k)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNsMGrZmCMVPjcMhXdKWRSgWGHXwthDXbwZkmsQrvRMJGsxbNpqKXkqrdRTSlvkFngFBtL)
 
-
+<h2>Come and visit!!</h2>
+  <a class="button" href="resource/Hank-CV.pdf" target="_blank"></a>
+<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 
 
 
