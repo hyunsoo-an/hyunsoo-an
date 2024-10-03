@@ -17,6 +17,16 @@
    <img alt="git" src="https://img.shields.io/badge/-Git-f1502f?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hyunsoo-an/)
+
+<h2>Contact Me</h2>
+<p>
+   
+   <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />
+</p>
+
+- 🔭 I’m currently working on personal-project
+- 🌱 I’m currently learning Api
 <!--
 **hyunsoo-an/hyunsoo-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
