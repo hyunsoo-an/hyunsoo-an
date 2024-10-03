@@ -4,7 +4,7 @@
 <h3>My tech stack</h3>
 <p>
    <img alt="html5" src="https://img.shields.io/badge/-HTML5-e34c26?style=flat-square&logo=html5&logoColor=white" />
-   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=CSS3&logoColor=white" />
+   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat-square&logo=CSS3&logoColor=white" />
    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0e31b?style=flat-square&logo=JavaScript&logoColor=white" />
    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
