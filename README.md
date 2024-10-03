@@ -6,7 +6,6 @@
 <p>I have a passion for exploring new things and solving problems. I am honored to have the opportunity to showcase my skills, and I hope to continue learning and growing as a developer. I believe that staying comfortable prevents my skills from growing, so rather than remaining stagnant, I am determined to overcome my limits and actively seek new challenges with a mindset focused on continuous learning.</p>
 
 <h3>My tech stack</h3>
-
 <p>
    <img alt="html5" src="https://img.shields.io/badge/-HTML5-e34c26?style=flat-square&logo=html5&logoColor=white" />
    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat-square&logo=CSS3&logoColor=white" />
@@ -17,12 +16,15 @@
    <img alt="git" src="https://img.shields.io/badge/-Git-f1502f?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-
 <h2>Contact Me</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hyunsoo-an/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-cd486b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hank_o_k)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNsMGrZmCMVPjcMhXdKWRSgWGHXwthDXbwZkmsQrvRMJGsxbNpqKXkqrdRTSlvkFngFBtL)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyunsoo-an&show_icons=true&theme=radical)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hyunsoo-an)](https://github.com/hyunsoo-an/github-readme-stats)
 
 <!--
 **hyunsoo-an/hyunsoo-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
