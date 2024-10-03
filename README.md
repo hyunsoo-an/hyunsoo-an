@@ -1,4 +1,4 @@
-## Nice to see you. 👋
+## Nice to see you all 👋
 
 <h3>About Me</h3>
 <p>Thank you for visiting my Github </br> I'm Hyunsoo or call me Hank, Fullstack developer from <b>South Korea</b>, currently living in <b>Tauranga, New Zealand</b>. </p>
