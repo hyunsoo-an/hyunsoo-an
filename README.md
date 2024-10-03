@@ -1,4 +1,9 @@
-## Hi there 👋
+## Nice to see you. 👋
+
+Welcome to my page!
+I'm Hyunsoo (Hank), Full stack developer from Korea, currently living in Tauranga, New Zealand.
+
+My tech stack
 
 <!--
 **hyunsoo-an/hyunsoo-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
