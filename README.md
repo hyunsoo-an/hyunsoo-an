@@ -27,6 +27,9 @@
 <h3>Hot Coffee</h3>
 <p>As a final project for Dev Academy, a team of four, including myself, developed a service to help users find good coffee shops near them over the course of a week. I primarily focused on front-end work, including database construction and loading page design. This webpage was has been designed with mobile screens in mind. However, a limitation is that all coffee shop locations are hard-coded in the database, so users can only view a few places in Wellington. This is an area for further improvement. I gained experience in the overall process of full-stack development and developed a deep understanding of API design and database management on the back end.</p>
 
+<h2>Kes Ke Say</h2>
+<p></p>
+
 <h2>Contact Me</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hyunsoo-an/)
