@@ -5,7 +5,7 @@
 
 <p>I have a passion for exploring new things and solving problems. I am honored to have the opportunity to showcase my skills, and I hope to continue learning and growing as a developer. I believe that staying comfortable prevents my skills from growing, so rather than remaining stagnant, I am determined to overcome my limits and actively seek new challenges with a mindset focused on continuous learning.</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-007bff?style=flat-square&logo=pdf&logoColor=white)](https://hyunsoo-an.github.io/hank-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-007bff?style=flat-square&logoColor=white)](https://hyunsoo-an.github.io/hank-portfolio/)
 
 <h2>My tech stack</h2>
 <p>
