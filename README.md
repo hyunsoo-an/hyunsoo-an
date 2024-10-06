@@ -5,7 +5,7 @@
 
 <p>I have a passion for exploring new things and solving problems. I am honored to have the opportunity to showcase my skills, and I hope to continue learning and growing as a developer. I believe that staying comfortable prevents my skills from growing, so rather than remaining stagnant, I am determined to overcome my limits and actively seek new challenges with a mindset focused on continuous learning.</p>
 
-<h3>My tech stack</h3>
+<h2>My tech stack</h2>
 <p>
    <img alt="html5" src="https://img.shields.io/badge/-HTML5-e34c26?style=flat-square&logo=html5&logoColor=white" />
    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat-square&logo=CSS3&logoColor=white" />
