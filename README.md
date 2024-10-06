@@ -21,7 +21,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunsoo-an&layout=donut" height="200" />
 </div>
 
-<h3>My tech stack</h3>
+<h2>Projects</h2>
 
 
 <h2>Contact Me</h2>
