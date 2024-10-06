@@ -4,6 +4,8 @@
 <p>Thank you for visiting my Github </br> I'm Hyunsoo or call me Hank, Fullstack developer from <b>South Korea</b>, currently living in <b>Tauranga, New Zealand</b>. </p>
 
 <p>I have a passion for exploring new things and solving problems. I am honored to have the opportunity to showcase my skills, and I hope to continue learning and growing as a developer. I believe that staying comfortable prevents my skills from growing, so rather than remaining stagnant, I am determined to overcome my limits and actively seek new challenges with a mindset focused on continuous learning.</p>
+<a href="resource/Hank-CV.pdf" target="_blank"
+>CV</a>
 
 <h2>My tech stack</h2>
 <p>
