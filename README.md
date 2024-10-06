@@ -25,10 +25,14 @@
 
 <h2>Projects</h2>
 <h3>Hot Coffee</h3>
-<p>As a final project for Dev Academy, a team of four, including myself, developed a service to help users find good coffee shops near them over the course of a week. I primarily focused on front-end work, including database construction and loading page design. This webpage was has been designed with mobile screens in mind. However, a limitation is that all coffee shop locations are hard-coded in the database, so users can only view a few places in Wellington. This is an area for further improvement. I gained experience in the overall process of full-stack development and developed a deep understanding of API design and database management on the back end.</p>
+<p>This project Hot Coffee was created as a final project at Dev Academy, a team of four, including myself, developed a service to help users find good coffee shops near them over the course of a week.</p>
+<p>I primarily focused on front-end work, including database construction and loading page design. This webpage was has been designed with mobile screens in mind. However, a limitation is that all coffee shop locations are hard-coded in the database, so users can only view a few places in Wellington. This is an area for further improvement.</p>
+<p>I gained experience in the overall process of full-stack development and developed a deep understanding of API design and database management on the back end.</p>
 
-<h2>Kes Ke Say</h2>
-<p></p>
+<h3>Kes-Ke-Say</h3>
+<p>This project Kes-Ke-Say was created as a teacher-led project at Dev Academy. The main purpose of this project is to allow users to write posts, join groups, and network.</p>
+<p>This project was developed as a full-stack application by a team of six members and one facilitator. The teams focused on Group, Profile, and Post, and I was part of the Profile team.</p>
+<p>A primary goal of this project was to ensure comprehensive testing coverage for all components. Therefore, all code was fully tested before being merged into the main branch.</p>
 
 <h2>Contact Me</h2>
 
