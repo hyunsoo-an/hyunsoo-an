@@ -33,6 +33,18 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-cd486b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hank_o_k)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNsMGrZmCMVPjcMhXdKWRSgWGHXwthDXbwZkmsQrvRMJGsxbNpqKXkqrdRTSlvkFngFBtL)
 
+<style>
+   .button {
+     display: inline-block;
+     padding: 10px 20px;
+     margin: 5px;
+     background-color: #4682b4;
+     color: white;
+     border-radius: 5px;
+     text-decoration: none;
+     transition: background-color 0.3s;
+   }
+</style>
 
 <!--
 **hyunsoo-an/hyunsoo-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
