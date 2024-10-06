@@ -5,7 +5,7 @@
 
 <p>I have a passion for exploring new things and solving problems. I am honored to have the opportunity to showcase my skills, and I hope to continue learning and growing as a developer. I believe that staying comfortable prevents my skills from growing, so rather than remaining stagnant, I am determined to overcome my limits and actively seek new challenges with a mindset focused on continuous learning.</p>
 
-[![Download CV](https://img.shields.io/badge/Download_CV-007bff?style=flat-square&logo=pdf&logoColor=white)](Hank-CV.pdf)
+[![Download CV](https://img.shields.io/badge/Download_CV-007bff?style=flat-square&logo=pdf&logoColor=white)](Hank CV.pdf)
 
 
 <h2>My tech stack</h2>
