@@ -35,8 +35,9 @@
 <p>A primary goal of this project was to ensure comprehensive testing coverage for all components. Therefore, all code was fully tested before being merged into the main branch.</p>
 
 <h3>Bird Collection</h3>
-<p>This project created as part of an assignment at Dev Academy but has since grown into a personal project where I've expanded its features and scope. The aim of this project is to allow users to add their favorite birds to their personal collection</p>
+<p>This project created as part of an assignment at Dev Academy but has since grown into a personal project where I've expanded its features and scope. The aim of this project is to allow users to add their favorite birds to their personal collection.</p>
 <p>I developed this project as a full-stack application, handling both the front-end and back-end aspects independently. My goal with this project is to continuously add new features and enhancements, allowing it to evolve creatively as I explore new ideas and technologies.</p>
+<p>I gained a deeper understanding of React.js and improved my skills in full-stack development through this project, continuously learning and new concepts.</p>
 
 <h2>Contact Me</h2>
 
