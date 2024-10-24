@@ -34,6 +34,10 @@
 <p>This project was developed as a full-stack application by a team of six members and one facilitator. The teams focused on Group, Profile, and Post, and I was part of the Profile team.</p>
 <p>A primary goal of this project was to ensure comprehensive testing coverage for all components. Therefore, all code was fully tested before being merged into the main branch.</p>
 
+<h3>Bird Collection</h3>
+<p>This project created as part of an assignment at Dev Academy but has since grown into a personal project where I've expanded its features and scope. The aim of this project is to allow users to add their favorite birds to their personal collection</p>
+<p>I developed this project as a full-stack application, handling both the front-end and back-end aspects independently. My goal with this project is to continuously add new features and enhancements, allowing it to evolve creatively as I explore new ideas and technologies.</p>
+
 <h2>Contact Me</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hyunsoo-an/)
